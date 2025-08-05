@@ -4,7 +4,7 @@ Este es un proyecto simple en Python que permite convertir una cantidad de diner
 
 ## 🚀 ¿Qué hace?
 
-- Convierte entre monedas como EUR, USD, GBP, etc.
+- Convierte entre monedas como EUR, USD.
 - Obtiene los tipos de cambio actualizados en tiempo real.
 - Usa una interfaz por consola simple y amigable.
 
